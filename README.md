@@ -12,17 +12,17 @@ The directory structure of the whole project is as follows:
 
 ├───data
 │   ├───synapse-train-224
-│   		├── record_0.tfrecords
-│   		└── *.tfrecords
+│   		├── record_0.tfrecords
+│   		└── *.tfrecords
 |   ├───synapse-test-224
-│   		├── case0001.tfrecords
-│   		└── *.tfrecords
+│   		├── case0001.tfrecords
+│   		└── *.tfrecords
 │   ├───test_vol_h5
-│   		├── case0001.npy.h5
-│   		└── *.npy.h5
+│   		├── case0001.npy.h5
+│   		└── *.npy.h5
 │   └───train_npz
-│   		├── case0005_slice000.npz
-│   		└── *.npz
+│   		├── case0005_slice000.npz
+│   		└── *.npz
 ├── TransUNet
     ├───data_processing
     │   ├───dataset_synapse.py
