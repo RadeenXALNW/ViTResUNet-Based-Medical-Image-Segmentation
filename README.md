@@ -15,3 +15,10 @@ The experiments were conducted on Synapse multi-organ segmentation dataset.
 - The architecure is given below for better understanding
 
 ![architecture](https://user-images.githubusercontent.com/66905164/169606363-e8910bf8-6427-418a-af04-c0c50c8f6c62.png)
+
+
+Vision Transformer
+
+
+![image](https://user-images.githubusercontent.com/66905164/169606905-d0de58a9-f66d-47c4-b741-7e53804f6689.png)
+
