@@ -10,4 +10,4 @@ The experiments were conducted on Synapse multi-organ segmentation dataset.
   - Convert the data from numpy to TfRecords (Tensorflow’s binarystorage format) to speed up training and enable parallel data reading from disk. We provide a data parsing pipeline to write and read TfRecords as a TFDataset in the module data_processing. A guide notebook is available under experiments/create_tfds_records.ipynb.
 The directory structure of the whole project is as follows:
 
-![ ](D:/deep learning research paper/cu conference/git.png)
+! [](D:/deep learning research paper/cu conference/git.png)
