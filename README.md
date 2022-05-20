@@ -10,3 +10,8 @@ The experiments were conducted on Synapse multi-organ segmentation dataset.
 
 
 ![git](https://user-images.githubusercontent.com/66905164/169605613-5269fa05-eb9b-4936-b616-9068b75113b2.png)
+
+
+- The architecure is given below for better understanding
+
+![architecture](https://user-images.githubusercontent.com/66905164/169606363-e8910bf8-6427-418a-af04-c0c50c8f6c62.png)
