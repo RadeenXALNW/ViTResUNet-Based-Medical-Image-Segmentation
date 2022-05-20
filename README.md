@@ -25,3 +25,11 @@ Vision Transformer ( You can watch this repo https://github.com/RadeenXALNW/Visi
 
 ![image](https://user-images.githubusercontent.com/66905164/169606905-d0de58a9-f66d-47c4-b741-7e53804f6689.png)
 
+
+
+## Refereneces 
+- https://arxiv.org/pdf/2102.04306.pdf
+- https://github.com/Beckschen/TransUNet
+- https://arxiv.org/abs/1807.06521
+- https://github.com/xmu-xiaoma666/External-Attention-pytorch
+
