@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/66905164/169608468-72869a6d-d95f-4dd1-944e-c7518d164482.png)
+
+
 # ViTUResNet-Based-Medical-Image-Segmentation
 ViTUResNet is a hybrid CNN-Transformer architecture with the backbone of TransUNet.
 The experiments were conducted on Synapse multi-organ segmentation dataset.
